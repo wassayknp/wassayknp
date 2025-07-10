@@ -1,6 +1,10 @@
 # 👋 Hi, I'm Abdul Wassay
 
-**BI & Analytics Specialist | 7.8+ years | Power BI, Tableau, Spotfire, SQL, Python**
+**BI & Analytics Specialist | 7.8+ years | Power BI, Tableau, Spotfire, SQL, Python, QGIS, Git, JIRA**
+
+<p align="left">
+  <img src="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=powerbi%2Ctableau%2Cpython%2Cqgis%2Cmicrosoftsqlserver%2Coracle%2Cgit%2Cjira&preset=default&shadow=true&width=300" width="500"/>
+</p>
 
 ---
 
