@@ -14,9 +14,15 @@ Experienced BI & Analytics Specialist with 8+ years in business intelligence, da
 
 ---
 
-### 🛠️ Skills
+### 🛠️ Skills & Technologies
 
-Power BI, Tableau, Spotfire, SAP BusinessObjects BI, SQL, Snowflake, ETL, Python, QGIS, Automation, Project Management (JIRA, GitHub)
+* **BI & Visualization:** Power BI (DAX, Power Query, Fabric), Tableau, Spotfire, Looker, Dashboard Design & Reporting
+* **SQL & Data Engineering:** Oracle, SQL Server, Snowflake, Data Modeling, Microsoft Fabric (Data Warehousing, Data Pipelines)
+* **ETL & Data Integration:** IBM DataStage, Microsoft Fabric (Data Factory, Data Engineering), APIs, JSON
+* **Automation & DevOps:** AI Prompt Engineering, AI Agents, Python, Version Control (Git), CI/CD Pipelines, GitHub
+* **BI Platform Administration:** Power BI Service (Admin, Security, Performance), User Access Management, RLS
+* **Project & Collaboration:** JIRA
+* **Geospatial Analytics:** QGIS, Custom Maps, Geospatial Analysis
 
 ---
 
