@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Abdul Wassay
 
-**BI & Analytics Specialist | 7.8+ years | Power BI, Tableau, Spotfire, SQL, Python, QGIS, Git, JIRA**
+**BI & Analytics Specialist | 8+ years | Power BI, Microsoft Fabric, SQL, AI, Data Engineering, Git, JIRA**
 
 <p align="left">
   <img src="https://cardify.vercel.app/api/badges?border=false&borderColor=%23ddd&borderWidth=2&iconColor=&icons=powerbi%2Ctableau%2Cpython%2Cqgis%2Cmicrosoftsqlserver%2Coracle%2Cgit%2Cjira&preset=default&shadow=true&width=300" width="500"/>
@@ -10,7 +10,7 @@
 
 ### 🚀 About Me
 
-Seasoned BI professional with 7+ years of experience delivering scalable, data-driven solutions for global clients. Expert in Power BI, Spotfire, Tableau, and SAP BusinessObjects BI, with a strong track record in dashboard development, data modeling, advanced reporting, and integrating AI-driven analytics. Skilled in SQL, Snowflake, ETL, automation, and geospatial analytics. Adept at leading cross-functional teams and managing enterprise-level BI projects.
+Experienced BI & Analytics Specialist with 8+ years in business intelligence, data analytics, and data warehousing. Proficient in Power BI, SQL, and ETL tools (DataStage, Power BI ETL), transitioning to cloud-native data engineering with Microsoft Fabric (Data Factory, Data Engineering). Skilled in AI prompt engineering and leveraging AI Agents to optimize analytics workflows, proficiently leading teams to deliver actionable insights through interactive dashboards. Adept at stakeholder collaboration, mentoring, and implementing scalable BI solutions for diverse global clients, managing project workflows effectively with tools like JIRA.
 
 ---
 
